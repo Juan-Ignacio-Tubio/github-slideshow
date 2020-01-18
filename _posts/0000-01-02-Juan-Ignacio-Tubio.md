@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Welcome to the training session for Juan Ignacio Tubio.
+I don't want to write a meme here dude :v
